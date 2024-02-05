@@ -1,3 +1,41 @@
+html{background-color: #344e41;
+}
+
 header{
-    position: fixed;
+   padding: 15px;
+   background: #dad7cd;
+   color: white;
+   font-size: 30px;
+   position: relative;
+   text-align: right;
+}
+
+.first{
+    background-color: #a3b18a;
+    inline-size: 50%
+}
+
+.glass{
+    width: 300px;
+    height: 200px;
+}
+
+.second{
+    background-color: #a3b18a;
+    inline-size: 50%;
+}
+
+.solow{
+    width: 300px;
+    height:200px;
+}
+
+.third{
+    background-color: #a3b18a;
+    inline-size: 50%;
+}
+
+.camera{
+    width: 300px;
+    height:200px;
 }
