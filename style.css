@@ -3,9 +3,11 @@ html{background-color: #344e41;
 
 header{
    padding: 10px;
+   /* CSS PROPOTIONAL UNITS */
    background: #dad7cd;
    color: white;
    font-size: 25px;
+    /* CSS PROPOTIONAL UNITS; */
    position: relative;
    text-align: right;
 }
@@ -75,4 +77,5 @@ h1{
     text-align: center;
     color: #dad7cd;
     border: 5px solid #dad7cd; 
+    /* CSS ADVANCED RULES */
 }
