@@ -29,6 +29,14 @@ h1{
     margin-left: auto;
     margin-right: auto;
 }
+
+/* .tom{
+    display: flex;
+    justify-content: center;
+} */
+
+/* /* FLEXBOX ISSUES^ IMAGE WONT CENTER WITH FLEXBOX */
+
 .about{
     background-color: #588157;
     inline-size: 50%;
